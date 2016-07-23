@@ -11,9 +11,13 @@
   },
   "scripts": {
     "dev": "nodemon index.js",
-    "run": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Mrowetz",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/micmro/event-chat"
+  },
   "license": "MIT"
 }
