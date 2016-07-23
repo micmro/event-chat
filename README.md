@@ -1,2 +1,2 @@
-# Simple socket-io based chat server
-
+# event-chat
+minimal socket-io based realtime chat
